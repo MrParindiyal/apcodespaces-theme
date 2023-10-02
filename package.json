@@ -1,0 +1,21 @@
+{"name":"theme-customs",
+"displayName":"%displayName%",
+"description":"%description%",
+"icon": "./src/pengu_pascal.png",
+"galleryBanner": {
+    "color": "#2aa198"
+},
+"categories":["Themes"],
+"version":"1.6.95",
+"publisher":"ap-dev",
+"license": "UNLICENSED",
+"engines":{"vscode":"*"},
+"contributes":
+{
+    "themes":
+    [{"id":"Custom Solar+",
+"label":"Solar+ ",
+"uiTheme":"vs-dark",
+"path":"../theme-solar-plus/themes/apcodespaces-color-theme.json"}]},
+"repository":{"type":"git",
+"url":"https://github.com/MrParindiyal/apcodespaces-theme.git"}}
