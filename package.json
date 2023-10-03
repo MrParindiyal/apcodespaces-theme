@@ -7,7 +7,7 @@
         "color": "#2aa198"
     },
     "categories":["Themes"],
-    "version":"1.6.99",
+    "version":"1.7.0",
     "publisher":"ap-dev",
     "license": "UNLICENSED",
     "engines":{"vscode":"*"},
