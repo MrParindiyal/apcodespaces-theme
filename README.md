@@ -12,7 +12,7 @@ Search for	`ap-dev.theme-customs` on the VS Code extensions marketplace to downl
 
 ### Preview0 
 
-<img alt = "theme colors" src = "src/entirewindoe_cmdpalette.gif" width = "1024" height = "500">
+<img alt = "theme colors" src = "src/entirewindoe_cmdpalette.gif" width = "1024" height = "464">
 
 ---
 ### Preview1
@@ -20,7 +20,7 @@ Colors for :
 + Selected text hightlight color
 + Java syntax highlighting
 
-<img alt = "theme preview for java (entire window)" src = "src/java_full_window.png" width = "1024" height = "500">
+<img alt = "theme preview for java (entire window)" src = "src/java_full_window.png" width = "1024" height = "464">
 
 ---
 ### Preview2
